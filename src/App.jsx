@@ -117,7 +117,7 @@ function App() {
     <main className="app-container">
       <section className="todo-card">
         <header className="app-header">
-          <p className="eyebrow">React Hooks Project</p>
+          <p className="eyebrow">משימת React</p>
           <h1>רשימת מטלות</h1>
           <p className="subtitle">
             ניהול מטלות עם הוספה, מחיקה, סימון כבוצע, עריכה, סינון ושמירה מקומית.
